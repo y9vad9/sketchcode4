@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sketchcode</string>
+    <string name="home">Home</string>
+    <string name="codes">Codes</string>
+    <string name="moreblocks">Moreblocks</string>
+    <string name="saved">Saved</string>
+    <string name="more">More</string>
+    <string name="all_codes">all codes</string>
+    <string name="my_saved">my saved</string>
+    <string name="title_activity_code">CodeActivity</string>
+    <string name="help">help</string>
+    <string name="code">code</string>
+    <string name="copied">Copied</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

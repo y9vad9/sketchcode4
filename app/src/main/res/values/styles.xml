@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">#656565</item>
+        <item name="android:colorBackground">#fff</item>
+    </style>
+
+    <style name="google_sans_bold" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+    </style>
+
+    <style name="google_sans_bold_logo" parent="@android:style/TextAppearance.Medium">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+    </style>
+
+    <style name="google_sans_medium" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/google_sans_medium</item>
+    </style>
+
+    <style name="google_sans_regular" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/google_sans_regular</item>
+    </style>
+
+    <style name="google_sans" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/google_sans_regular</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

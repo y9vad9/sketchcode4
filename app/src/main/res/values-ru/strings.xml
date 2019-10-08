@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sketchcode</string>
+    <string name="all_codes">все коды</string>
+    <string name="code">код</string>
+    <string name="codes">Коды</string>
+    <string name="copied">Скопировано</string>
+    <string name="hello_blank_fragment">Привет :)</string>
+    <string name="help">Помощь</string>
+    <string name="home">Главная</string>
+    <string name="more">Больше</string>
+    <string name="moreblocks">Доп. блоки</string>
+    <string name="my_saved">мои сохранённые</string>
+    <string name="saved">Сохранённые</string>
+    <string name="title_activity_code">CodeActivity</string>
+    <string name="community">Сообщество</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Настройки</string>
+    <string name="rate">Оценить</string>
+    <string name="help_more">Помощь</string>
+</resources>

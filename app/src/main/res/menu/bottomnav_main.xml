@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottomnav_home"
+        android:icon="@drawable/round_home_24"
+        android:title="@string/home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/bottomnav_codes"
+        android:icon="@drawable/round_list_24"
+        android:title="@string/codes"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bottomnav_moreblocks"
+        android:icon="@drawable/round_widgets_24"
+        android:title="@string/moreblocks"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bottomnav_usercontent"
+        android:icon="@drawable/web"
+        android:title="@string/community"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bottomnav_more"
+        android:icon="@drawable/round_menu_24"
+        android:title="@string/more"
+        app:showAsAction="always" />
+</menu>
